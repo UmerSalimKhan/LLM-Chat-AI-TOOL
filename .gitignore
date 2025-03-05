@@ -1,0 +1,5 @@
+# Dotenv
+.env
+
+# Virtual env
+llm_venv/
