@@ -45,7 +45,7 @@ LLM-Chat-AI-TOOL
 ```
 
 ## Command Line app
-![CMD APP](Imgs/Command Line output.png)
+![CMD APP](Imgs/Command_Line_output.png)
 
 ## StreamLit app
 
