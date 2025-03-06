@@ -21,7 +21,7 @@ Large Language Models (LLMs) are rapidly emerging as significant game-changers i
 
 ### Tiny LLAMA Implementation:
 
-At the core of this project is the **Tiny LLAMA** model, which is a lightweight yet efficient variant of large language models. Despite being smaller in size, Tiny LLAMA is designed to perform with high accuracy and speed, making it ideal for real-time applications. (In-depth details about Tiny LLAMA can be found in the 100-line implementation code provided within the project.)
+At the core of this project is the **Tiny LLAMA** model, which is a lightweight yet efficient variant of large language models. Despite being smaller in size, Tiny LLAMA is designed to perform with high accuracy and speed, making it ideal for real-time applications. 
 
 ### Features of the Project:
 
